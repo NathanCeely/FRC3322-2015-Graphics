@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="333"
+   id="svg6252"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Undercuts.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs6254">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3383"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective6260" />
+    <inkscape:perspective
+       id="perspective6323"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="91.275324"
+     inkscape:cy="208.5726"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:window-width="1226"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata6257">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="ToothBG"
+     style="display:inline">
+    <path
+       id="path6330"
+       style="fill:#efefef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 345.49107,272.107 C 341.74107,269.60699 319.89864,255.78338 320.04464,231.03556 C 320.08145,224.7964 326.91965,199.78557 329.86607,196.92842 C 327.72321,139.24985 277.18667,37.764022 261.29465,17.106992 C 257.90179,16.214137 257.41036,15.521511 218.32589,15.499921 C 178.7218,15.804839 179.28572,16.035714 175.71428,17.107142 C 159.82226,37.764172 109.28572,139.25 107.14286,196.92857 C 110.08928,199.78572 116.92748,224.79655 116.96429,231.03571 C 117.11029,255.78353 95.267857,269.60714 91.517858,272.10715"
+       sodipodi:nodetypes="cscccccsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="ToothOutline"
+     style="display:inline">
+    <path
+       id="path6338"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       d="M 345.49121,272.10685 C 341.74121,269.60684 319.89878,255.78323 320.04478,231.03541 C 320.08159,224.79625 326.91979,199.78542 329.86621,196.92827 C 327.72335,139.2497 277.18681,37.76387 261.29479,17.10684 C 257.90193,16.21399 257.4105,15.52136 218.32603,15.49977 C 178.72194,15.80469 179.28586,16.03556 175.71442,17.10699 C 159.8224,37.76402 109.28586,139.24985 107.143,196.92842 C 110.08942,199.78557 116.92762,224.7964 116.96443,231.03556 C 117.11043,255.78338 95.268,269.60699 91.518,272.107"
+       sodipodi:nodetypes="cscccccsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Arrows"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 93.214286,47.196428 L 145.53571,69.874999"
+       id="path6871" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 165.71429,169.42857 L 112.32143,193.53571"
+       id="path6873" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 71.607143,216.21428 L 114.64286,225.67857"
+       id="path6875"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 128.03571,260.14286 L 116.60714,245.5"
+       id="path6877" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 145.35714,312.46429 L 116.60714,296.21429"
+       id="path6879" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Guidelines"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       id="path6849"
+       sodipodi:cx="213.8998"
+       sodipodi:cy="299.91751"
+       sodipodi:rx="646.24512"
+       sodipodi:ry="646.24512"
+       d="M 57.099314,-327.01658 A 646.24512,646.24512 0 0 1 354.97391,-330.74155"
+       sodipodi:start="4.4673098"
+       sodipodi:end="4.9324592"
+       transform="translate(-14.647211,574.77679)"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       d="M 62.629458,185.26519 L 320.4709,239.81343"
+       id="path6851" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       d="M 115.915,304.96827 L 95.459416,133.49487"
+       id="path6853" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       d="M 87.883271,304.71573 L 128.28937,75.916177"
+       id="path6855"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="207.85713"
+       y="146.57143"
+       id="text7419"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7421"
+         x="207.85713"
+         y="146.57143">Lowest point of working</tspan><tspan
+         sodipodi:role="line"
+         x="207.85713"
+         y="161.57143"
+         id="tspan7423">profile on which contact</tspan><tspan
+         sodipodi:role="line"
+         x="207.85713"
+         y="176.57143"
+         id="tspan7425">may occur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="165.71429"
+       y="240.5"
+       id="text7427"><tspan
+         sodipodi:role="line"
+         id="tspan7429"
+         x="165.71429"
+         y="240.5">Base circle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="129.28572"
+       y="268"
+       id="text7431"><tspan
+         sodipodi:role="line"
+         id="tspan7433"
+         x="129.28572"
+         y="268">Fillet curve</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="150"
+       y="318"
+       id="text7435"><tspan
+         sodipodi:role="line"
+         id="tspan7437"
+         x="150"
+         y="318">Radial line of base circle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="45"
+       y="281.92856"
+       id="text7439"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7441"
+         x="45"
+         y="281.92856">Tangent at</tspan><tspan
+         sodipodi:role="line"
+         x="45"
+         y="296.92856"
+         id="tspan7443">lowest point</tspan><tspan
+         sodipodi:role="line"
+         x="45"
+         y="311.92856"
+         id="tspan7445">of working</tspan><tspan
+         sodipodi:role="line"
+         x="45"
+         y="326.92856"
+         id="tspan7447">profile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="12.142858"
+       y="215.85713"
+       id="text7449"><tspan
+         sodipodi:role="line"
+         id="tspan7451"
+         x="12.142858"
+         y="215.85713">Undercut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="62.857143"
+       y="25.142857"
+       id="text7453"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7455"
+         x="62.857143"
+         y="25.142857">Working profile</tspan><tspan
+         sodipodi:role="line"
+         x="62.857143"
+         y="40.142857"
+         id="tspan7457">(involute of circle)</tspan></text>
+  </g>
+</svg>
