@@ -1,7 +1,0 @@
-FRC3322-2015-Graphics Outdated Gears:
-	Captain's Log.ai
-	Detailed Steve.ai
-	Email Banner.ai
-	Gear Layout.ai
-
-We may want to keep a copy of the Gear Layout.ai, in case anything should happen to the simplified version you made.
